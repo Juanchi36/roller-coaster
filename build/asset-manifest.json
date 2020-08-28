@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/roller-coaster/static/css/main.f2785edb.chunk.css",
+    "main.js": "/roller-coaster/static/js/main.a8076c98.chunk.js",
+    "main.js.map": "/roller-coaster/static/js/main.a8076c98.chunk.js.map",
+    "runtime-main.js": "/roller-coaster/static/js/runtime-main.46bf383e.js",
+    "runtime-main.js.map": "/roller-coaster/static/js/runtime-main.46bf383e.js.map",
+    "static/js/2.a1db3643.chunk.js": "/roller-coaster/static/js/2.a1db3643.chunk.js",
+    "static/js/2.a1db3643.chunk.js.map": "/roller-coaster/static/js/2.a1db3643.chunk.js.map",
+    "index.html": "/roller-coaster/index.html",
+    "precache-manifest.920909279ed5b8f03952915b8d6a7f0e.js": "/roller-coaster/precache-manifest.920909279ed5b8f03952915b8d6a7f0e.js",
+    "service-worker.js": "/roller-coaster/service-worker.js",
+    "static/css/main.f2785edb.chunk.css.map": "/roller-coaster/static/css/main.f2785edb.chunk.css.map",
+    "static/js/2.a1db3643.chunk.js.LICENSE.txt": "/roller-coaster/static/js/2.a1db3643.chunk.js.LICENSE.txt",
+    "static/media/broken.jpg": "/roller-coaster/static/media/broken.7181a25e.jpg",
+    "static/media/end.jpg": "/roller-coaster/static/media/end.fdfbea05.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46bf383e.js",
+    "static/js/2.a1db3643.chunk.js",
+    "static/css/main.f2785edb.chunk.css",
+    "static/js/main.a8076c98.chunk.js"
+  ]
+}
